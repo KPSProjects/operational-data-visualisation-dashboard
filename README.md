@@ -88,7 +88,3 @@ A high-resolution static infographic produced from the cleaned and aggregated da
 The infographic visualises major trends such as genre dominance, platform growth, top-selling titles, decade shifts, and Steam ecosystem patterns.
 
 ---
-
-## Notebook
-
-The complete Jupyter Notebook with all data cleaning, feature engineering, aggregation, and export steps is included as:
